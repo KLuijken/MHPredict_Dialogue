@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MHPredict_Dialogue/precache-manifest.4331193038a7b50a65fd1f0a24e5465e.js"
+  "/MHPredict_Dialogue/precache-manifest.63bbd1aca09ff0f531792ed28d4de520.js"
 );
 
 self.addEventListener('message', (event) => {
