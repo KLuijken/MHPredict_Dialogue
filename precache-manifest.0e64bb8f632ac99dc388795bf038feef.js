@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "053c229ddf4a15261a936bb88ec155ed",
+    "revision": "6343b3d787dcb482186f5cf53c55670d",
     "url": "/MHPredict_Dialogue/index.html"
   },
   {
-    "revision": "bff850d364e426d1dc7e",
+    "revision": "52d0b6d944f3d7725367",
     "url": "/MHPredict_Dialogue/static/css/main.bdcc40fc.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MHPredict_Dialogue/static/js/2.d6a534e5.chunk.js"
   },
   {
-    "revision": "bff850d364e426d1dc7e",
-    "url": "/MHPredict_Dialogue/static/js/main.6aa70189.chunk.js"
+    "revision": "52d0b6d944f3d7725367",
+    "url": "/MHPredict_Dialogue/static/js/main.b3292224.chunk.js"
   },
   {
     "revision": "217043b31f915d023561",

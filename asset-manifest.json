@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MHPredict_Dialogue/static/css/main.bdcc40fc.chunk.css",
-    "main.js": "/MHPredict_Dialogue/static/js/main.6aa70189.chunk.js",
-    "main.js.map": "/MHPredict_Dialogue/static/js/main.6aa70189.chunk.js.map",
+    "main.js": "/MHPredict_Dialogue/static/js/main.b3292224.chunk.js",
+    "main.js.map": "/MHPredict_Dialogue/static/js/main.b3292224.chunk.js.map",
     "runtime~main.js": "/MHPredict_Dialogue/static/js/runtime~main.0c215b11.js",
     "runtime~main.js.map": "/MHPredict_Dialogue/static/js/runtime~main.0c215b11.js.map",
     "static/js/2.d6a534e5.chunk.js": "/MHPredict_Dialogue/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/MHPredict_Dialogue/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/MHPredict_Dialogue/index.html",
-    "precache-manifest.63bbd1aca09ff0f531792ed28d4de520.js": "/MHPredict_Dialogue/precache-manifest.63bbd1aca09ff0f531792ed28d4de520.js",
+    "precache-manifest.0e64bb8f632ac99dc388795bf038feef.js": "/MHPredict_Dialogue/precache-manifest.0e64bb8f632ac99dc388795bf038feef.js",
     "service-worker.js": "/MHPredict_Dialogue/service-worker.js",
     "static/css/main.bdcc40fc.chunk.css.map": "/MHPredict_Dialogue/static/css/main.bdcc40fc.chunk.css.map"
   }
